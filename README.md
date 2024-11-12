@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @Hastrman, absolute beginner in the data analysis domain but eager to learn new things and try them out on some real projects where SQL, Python and/or Power BI is required. That's all for know. Ciao.
